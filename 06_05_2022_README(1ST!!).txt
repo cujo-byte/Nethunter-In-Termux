@@ -5,15 +5,7 @@ ANYONE NOT IN THE KNOW RE: ANDROID/TERMUX/ROOTLESS_VS_ROOT/ (And therefore prett
 Here: 
 FOLLOW THIS URL, READ THIS, FOLLOW THE INSTRUCTIONS. I have it saved as .pdf, .jpg, 
 
- 1st [link is clean I just generated it from my file man --> photos to create the link.
 
-#1 https://photos.app.goo.gl/s2c79EaZshi2vJE39
-
-2nd is the same, just that i shared it directly from MS
-one_drive:
-
-#2 https://1drv.ms/b/s!Ak8tYBEFiLHYgn75HnNrv5m9G8z3
-
-#3 here's the link copied from browser to here directly. 
+### here's the link:
 
 https://www.kali.org/docs/nethunter/nethunter-rootless/
