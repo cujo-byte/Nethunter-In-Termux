@@ -1,0 +1,19 @@
+**********
+
+ANYONE NOT IN THE KNOW RE: ANDROID/TERMUX/ROOTLESS_VS_ROOT/ (And therefore pretty much tech life - seriously, have you been living under a rock? Under the influence of some rock? Perhaps you were brainwashed into joining a cult and you were about to drink the Kool aid when the Feds busted in?) Well in any case, you need to know that this [version of Kali Linux nethunter (rootless) is 2 years old. If you're interested in installing nethunter rootless in termux, you can get the latest rolling release from the official site- offsec keeps the rootless mobile updated quarterly. The link is coming up once I say something about the termux/Android OS version 12+ selinux policy changes, mapping needs and generally the ball breakers that are goo.le.λнοιεζ
+
+Here: 
+FOLLOW THIS URL, READ THIS, FOLLOW THE INSTRUCTIONS. I have it saved as .pdf, .jpg, 
+
+ 1st [link is clean I just generated it from my file man --> photos to create the link.
+
+#1 https://photos.app.goo.gl/s2c79EaZshi2vJE39
+
+2nd is the same, just that i shared it directly from MS
+one_drive:
+
+#2 https://1drv.ms/b/s!Ak8tYBEFiLHYgn75HnNrv5m9G8z3
+
+#3 here's the link copied from browser to here directly. 
+
+https://www.kali.org/docs/nethunter/nethunter-rootless/
